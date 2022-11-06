@@ -118,6 +118,9 @@ RPS c учетом поправочного коэффициента: 230 020.
 Сценарий: SQL запрос создания строки в таблице.
 
 ![AT](https://github.com/Vavlauz/TestReport/blob/7e2fed8c08d9305198f2cf2cddd273ce8430a761/HttpWeb/ActiveTreads.png)
+![RTO](https://github.com/Vavlauz/TestReport/blob/e295d377a2e194763dab9387036e5dd2529b2ff8/HttpWeb/ResultsTreeOpenComments.png)
+![RTS](https://github.com/Vavlauz/TestReport/blob/e295d377a2e194763dab9387036e5dd2529b2ff8/HttpWeb/ResultsTreeSelectCountsComments.png)
+![Summary](https://github.com/Vavlauz/TestReport/blob/e295d377a2e194763dab9387036e5dd2529b2ff8/HttpWeb/Summary.png)
 
 **Выводы:**
 

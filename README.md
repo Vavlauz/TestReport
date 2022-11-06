@@ -101,7 +101,7 @@ RPS c учетом поправочного коэффициента: 230 020.
 
 Тест выполнялся в течение 5 минут.
 
-[HPS](https://github.com/Vavlauz/TestReport/blob/master/TestWeb/HitPerSecond.png)
+[HPS](TestWeb/HitPerSecond.png)
 
 **Выводы:**
 

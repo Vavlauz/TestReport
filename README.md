@@ -101,7 +101,11 @@ RPS c учетом поправочного коэффициента: 230 020.
 
 Тест выполнялся в течение 5 минут.
 
-[TestWeb](https://github.com/Vavlauz/TestReport/blob/master/TestWeb/HitPerSecond.png)
+![HPS](https://github.com/Vavlauz/TestReport/blob/master/TestWeb/HitPerSecond.png)
+![Jmeter](https://github.com/Vavlauz/TestReport/blob/7e2fed8c08d9305198f2cf2cddd273ce8430a761/TestWeb/JmeterReport.png)
+![RTD](https://github.com/Vavlauz/TestReport/blob/7e2fed8c08d9305198f2cf2cddd273ce8430a761/TestWeb/ResponseTimeDistribution.png)
+![RTP](https://github.com/Vavlauz/TestReport/blob/7e2fed8c08d9305198f2cf2cddd273ce8430a761/TestWeb/ResponseTimePercentiles.png)
+![Summary](https://github.com/Vavlauz/TestReport/blob/7e2fed8c08d9305198f2cf2cddd273ce8430a761/TestWeb/Summary.png)
 
 **Выводы:**
 

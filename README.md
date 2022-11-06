@@ -104,6 +104,7 @@ RPS c учетом поправочного коэффициента: 230 020.
 [TestWeb](https://github.com/Vavlauz/TestReport/blob/master/TestWeb/HitPerSecond.png)
 
 **Выводы:**
+![HitPerSecond](https://user-images.githubusercontent.com/94743465/200162816-3fab5c77-f59f-40fe-b564-a0677e868d2b.png)
 
 - Сервис эффективно работает при достижении заданного RPS.
 
